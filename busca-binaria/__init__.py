@@ -1,0 +1,1 @@
+from brand_list_makeup import brands_makeup
